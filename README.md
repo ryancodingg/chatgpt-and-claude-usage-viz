@@ -25,4 +25,10 @@ You can install these libraries using pip:
 
 ```bash
 pip install pytz matplotlib numpy
+```
 
+## Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ryancodingg/chatgpt-and-claude-usage-viz
